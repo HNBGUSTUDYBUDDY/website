@@ -7,7 +7,7 @@
   transition: all 0.3s ease;
   }
 body{
-	background-color: antiquewhite;
+	background-color: white;
 }
 table{
 	padding: 5px 5px 5px 5px;
@@ -16,13 +16,16 @@ table{
 	border: 2px ;
 	border-color: black;
 	text-align: center;
-	color: cyan;
-	background-color: darkcyan;
+	tezzz
 }
 h1{
 	text-align: center;
 	font-size: 50px;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
 }
+
 .subhead{
 	background-color: orange;
 	text-align: center;
@@ -32,7 +35,7 @@ nav{
   height: 70px;
   width: 100%;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
-  background-color: lightgreen;
+  background-color: ;
 }
 nav .navbar{
   display: flex;
@@ -42,6 +45,14 @@ nav .navbar{
   margin: auto;
   padding: 0 30px;
   justify-content: space-between;
+}
+
+nav .navbar a:hover
+{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
 }
 nav .navbar a{
   font-size: 30px;
