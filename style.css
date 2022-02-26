@@ -8,6 +8,7 @@
   }
 body{
 	background-color: white;
+
 }
 table{
 	padding: 5px 5px 5px 5px;
@@ -80,3 +81,20 @@ nav .navbar a{
    display: flex;
    align-items: center;
  }
+ .ebook{
+
+padding: 10px 10px 10px 10px;
+height: 100px;
+width: 50px;
+ }
+ 
+  
+
+.flex-container .logo{
+  display: flex;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+   
+}
+
