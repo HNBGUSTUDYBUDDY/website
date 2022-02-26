@@ -81,20 +81,28 @@ nav .navbar a{
    display: flex;
    align-items: center;
  }
- .ebook{
-
-padding: 10px 10px 10px 10px;
-height: 100px;
-width: 50px;
- }
  
-  
-
-.flex-container .logo{
-  display: flex;
+.flex-container {
+  display: inline-flex;
   height: 100px;
   width: 100px;
-  margin: 10px;
+  margin: 10px 200p;
+  padding: 100px 100px 100px 600px;
+ font-size: 20px;
+ text-decoration: none;
+  text-align: center;
+  color: red;
+
+
    
 }
+.spacer{
+margin-left: 100px;
+}
 
+.books{
+  padding-top: 100px;
+  padding-left: 50px;
+  font-size: 20px;
+
+}
