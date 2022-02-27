@@ -69,7 +69,20 @@ nav .navbar a{
    align-items: center;
  }
  
+.column {
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  padding-top: 50px;
+  margin-left: 10px;
 
+
+  }
+.button{
+padding: 0;
+border: none;
+background: none;
+}
 .spacer
 {
 margin-left: 100px;
@@ -79,6 +92,9 @@ margin-left: 100px;
   padding-top: 100px;
   padding-left: 50px;
   font-size: 20px;
+
+}
+.ebook{
 
 }
 
