@@ -121,6 +121,71 @@ margin-left: 100px;
   box-shadow: 5px 5px 5px 5px gray;
 
 }
+.t5 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+
+}
+.t6 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+
+}
+
+.t7 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+}
+
+.t8 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+  }
+
+  .t9 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+}
+  
+  .t10 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+
+}
+.t11 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+
+}
+.t12 {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  padding-top: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+
+}
 
 td{
   border: 2px solid gray;
@@ -131,6 +196,7 @@ td{
 th{
   background-color: black;
   color: white;
+
 }
 tr.t1{
   background-color: lightgray;
