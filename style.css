@@ -81,6 +81,13 @@ nav .navbar a{
   padding-top: 90px;
   margin-left: 10px;
 
+  }
+  .column2{
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  padding-top: 90px;
+  margin-left: 10px;
 
   }
 .button{
@@ -146,7 +153,10 @@ marquee{
   padding-top:25px;
   width: 80%;
   margin: auto;
+  padding-bottom: 25px;
   }
+
+  
 
 .subheading{
   text-align: center;
@@ -186,7 +196,6 @@ marquee{
   margin: auto;
   padding-top: 5px;
   box-shadow: 5px 5px 5px 5px gray;
-
 }
 .t5 {
   border: 1px solid black;
