@@ -7,8 +7,8 @@
   transition: all 0.3s ease;
   }
 body{
-	background-color: #f8f9d2;
-background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+	background-color: #cfc7f8;
+background-image: linear-gradient(315deg, #cfc7f8 0%, #ebbba7 74%);
 }
 
 /* heading */
@@ -24,9 +24,9 @@ background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
 h1{
 	text-align: center;
 	font-size: 50px;
-  background-color: black;
+background-color: black;
   border-radius: 5px;
-  color: white;
+  color: #cfc7f8;
 }
 
 /* main navbar */
@@ -36,6 +36,7 @@ nav{
   height: 70px;
   width: 100%;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+
   
 }
 nav .navbar{
@@ -78,7 +79,7 @@ nav .navbar a{
   display: flex;
   align-items: center;
   justify-content:space-evenly;
-  padding-top: 90px;
+  padding-top: 60px;
   margin-left: 10px;
 
   }
