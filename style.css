@@ -73,7 +73,7 @@ nav .navbar a{
   display: flex;
   align-items: center;
   justify-content:space-evenly;
-  padding-top: 50px;
+  padding-top: 90px;
   margin-left: 10px;
 
 
@@ -83,20 +83,24 @@ padding: 0;
 border: none;
 background: none;
 }
-.spacer
-{
-margin-left: 100px;
+
+.logoname{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 25px;
+  text-align: justify-all;
+  border-radius: 4px;
 }
 
-.books{
-  padding-top: 100px;
-  padding-left: 50px;
-  font-size: 20px;
-
+.logoname2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 25px;
+  text-align: justify-all;
+ border-color: black;
+  border-radius: 4px;
 }
-.ebook{
 
-}
 
 .scrolllink
 {
