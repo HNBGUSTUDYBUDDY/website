@@ -1,5 +1,10 @@
-FROM alpine:latest
-RUN apt update -y && /
-  apt install apache2 -y && \
-  apt install nano -y
+FROM ubuntu:latest
+RUN apt-get update \
+    && apt-get install -y
+RUN apt install apache2 -y
+RUN apt install nano -y
 EXPOSE 80
+
+
+
+
