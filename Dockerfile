@@ -1,11 +1,12 @@
-FROM ubuntu:latest
-RUN apt-get update \
-    && apt-get install -y
-RUN apt install apache2 -y
+FROM php:8.0.2-apache
+RUN apt-get update -y
 RUN apt install nano -y
-COPY . /var/www/html
-WORKDIR /var/www/html/public
+
+COPY . /var/www/html/
+WORKDIR /var/www/html/
 EXPOSE 80
+
+
 
 
 
